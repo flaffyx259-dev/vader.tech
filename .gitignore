@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/csgo_legacy/
++Developer/
+*.tlog
+*.pdb
+*.log
+*.exp
+Developer/Intermediate/CSGO SDK.vcxproj.FileListAbsolute.txt
+.vs/slnx.sqlite
+Developer/Intermediate/vc141.idb
+*.iobj
+*.recipe
+Stable build/csgo_legacy.lib
+Developer/csgo_legacy.lib
+Beta/csgo_legacy_beta.lib
+Beta/csgo_legacy_beta.dll.vmp
+Beta/csgo_legacy_beta.lib
